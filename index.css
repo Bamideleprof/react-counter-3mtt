@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h2 {
+margin-top: 20px;
+color: blue;
+}
+.clickbutton { 
+  margin-top: 20px;
+}
+
+.increase {
+  margin-right: 10px;
+  padding: 4px 7px;
+  border-radius: 10px;
+  font-weight: 600;
+  color: blue;
+  border-color: blue;
+}
+
+.decrease {
+  margin-right: 10px;
+  padding: 4px 7px;
+  border-radius: 10px;
+  font-weight: 600;
+  color: red;
+  border-color: red;
+}
+
+.reset {
+  padding: 4px 7px;
+  border-radius: 10px;
+  font-weight: 600;
+  color: green;
+  border-color: green;
+}
